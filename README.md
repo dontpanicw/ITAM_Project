@@ -1,5 +1,6 @@
 # ITAM - Мероприятия
 Проект в рамках курсов ITAM
+По итогам презентации решений заняли 1 место
 
 Видео со всем функционалом сайта:
 https://disk.yandex.ru/client/disk/ITAM_Events?idApp=client&dialog=slider&idDialog=%2Fdisk%2FITAM_Events%2FITAM_Events.mp4
